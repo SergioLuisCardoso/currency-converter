@@ -11,9 +11,9 @@ In the initial phase, converts from real to dollar, euro and bitcoin.
 The project is still in development and the next updates will focus on the following tasks:
 
 - [x] Project planning
-- [x] Implementing HTML, CSS and Javascript
-- [x] Real to Dollar Conversions
-- [x] Euro to Dollar Conversions
+- [x] Implemented HTML, CSS and Javascript
+- [x] Real to Dollar Conversions - Implemented
+- [x] Euro to Dollar Conversions - Implemented
 - [ ] Convert bitcoin
 
 <img src="/Folder.png" alt="imagem-principal">
