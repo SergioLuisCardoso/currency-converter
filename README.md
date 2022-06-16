@@ -1,10 +1,13 @@
-# currency-converter
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-In the initial phase, converts from real to dollar, euro and bitcoin.
+# Currency Converter
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=PROJECT%20COMPLETED&color=GREEN&style=for-the-badge)
+
+## 💻  About the project
+`The project is very simple and works as follows: `
+On the home screen, the converter receives a value in Real from the user, which, through a currency selector, converts to US Dollars, Euros and Bitcoin, with the updated quote of the chosen local currency.
+
+
+
 
 ### Adjustments and improvements
 
@@ -16,7 +19,18 @@ The project is still in development and the next updates will focus on the follo
 - [x] Euro to Dollar Conversions - Implemented
 - [ ] Convert bitcoin
 
+### ✔️ Techniques and technologies used
+
+- ``HTML``
+- ``CSS``
+- ``JavaScript``
+- ``Intl.NumberFormat``
+- ``API consumption``
+
 <img src="/Folder.png" alt="imagem-principal">
 
-Link:
-https://sergioluiscardoso.github.io/currency-converter/
+##### 📁 You can access the project by clicking [aqui](https://sergioluiscardoso.github.io/currency-converter/).
+
+
+[⬆ Back to top](#currency-converter)<br>
+
