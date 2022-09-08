@@ -106,7 +106,7 @@ section {
 }
 
 .currency-container {
-    /*text-align: center;*/
+    /* text-align: center; */
     padding: 10px;
     display: flex;
     flex-direction: column;
