@@ -32,7 +32,7 @@ The project was developed following these steps:
 
 This project is under license. See the [LICENSE](LICENSE.md) for more details.
 
-#### 📁 You can access the project by clicking [aqui](https://sergioluiscardoso.github.io/currency-converter/).
+#### 📁 You can access the project by clicking [here](https://sergioluiscardoso.github.io/currency-converter/).
 
 [⬆ Back to top](#currency-converter)<br>
 
