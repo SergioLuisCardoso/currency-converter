@@ -15,9 +15,9 @@ The project was developed following these steps:
 
 - [x] Project planning
 - [x] Implemented HTML, CSS and Javascript
-- [x] Real to Dollar Conversions - Implemented
-- [x] Real to Euro Conversions - Implemented
-- [x] Real to Bitcoin Conversions - Implemented
+- [x] Real to Dollar Conversions
+- [x] Real to Euro Conversions
+- [x] Real to Bitcoin Conversions
 
 ### ✔️ Techniques and technologies used
 
