@@ -13,11 +13,11 @@ On the home screen, the converter receives a value in Real from the user, which,
 
 The project was developed following these steps:
 
-- [x] Project planning
-- [x] Implemented HTML, CSS and Javascript
-- [x] Real to Dollar Conversions
-- [x] Real to Euro Conversions
-- [x] Real to Bitcoin Conversions
+- [x] Project planning.
+- [x] Implemented HTML, CSS and Javascript.
+- [x] Real to Dollar Conversions.
+- [x] Real to Euro Conversions.
+- [x] Real to Bitcoin Conversions.
 
 ### ✔️ Techniques and technologies used
 
